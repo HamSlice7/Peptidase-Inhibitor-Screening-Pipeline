@@ -26,7 +26,7 @@ echo 'starting structural prediction'
 
 #execute run_multimer_jobs.py command within the alphapulldown container
 apptainer exec -C -B /datashare/alphafold -B $(pwd) -B $SLURM_TMPDIR:/tmp --nv ./alphapulldown_0.30.7.sif run_multimer_jobs.py --mode=pulldown \
-  --num_cycle=1 \
+  --num_cycle=5 \
   --num_predictions_per_model=1 \
   --output_path=$(pwd)/model_output \
   --data_dir=/datashare/alphafold \
