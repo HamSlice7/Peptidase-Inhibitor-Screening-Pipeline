@@ -2,7 +2,7 @@
 
 #SBATCH --job-name=model_generation
 #SBATCH --account=def-ahamilto
-#SBATCH --time=12:00:00
+#SBATCH --time=20:00:00
 #SBATCH --gres=gpu:1
 #SBATCH --ntasks-per-node=8
 #SBATCH --mem=64000M
