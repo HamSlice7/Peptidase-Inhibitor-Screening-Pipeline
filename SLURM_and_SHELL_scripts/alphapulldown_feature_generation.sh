@@ -2,7 +2,7 @@
 
 #SBATCH --job-name=feature_generation
 #SBATCH --account=def-ahamilto
-#SBATCH --time=12:00:00
+#SBATCH --time=20:00:00
 #SBATCH --cpus-per-task=24
 #SBATCH --mem=125G
 #SBATCH --error=log/alphapulldown_model_feature_generation_%A_%a_err
@@ -49,7 +49,7 @@ apptainer exec -C -B /datashare/alphafold -B $(pwd) -B $SLURM_TMPDIR:/tmp $(pwd)
   --output_dir=$(pwd)/feature_output \
   --use_precomputed_msas=False \
   --max_template_date=2025-01-04 \
-  --skip_existing=False \
+  --skip_existing=True \
   --seq_index=$SLURM_ARRAY_TASK_ID
 
 echo "finished feature generation"
