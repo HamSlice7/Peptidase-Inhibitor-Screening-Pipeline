@@ -12,34 +12,7 @@ date
 
 bait_fasta_file=$1
 
-cat $(pwd)/"$bait_fasta_file"
-
-echo "Bait FASTA file loaded"
-
 candidates_fasta_file=$2
-
-cat $(pwd)/"$candidates_fasta_file"
-
-echo "Candidates FASTA file loaded"
-
-#load in apptainer
-module load apptainer/1.2.4
-
-echo "apptainer loaded"
-
-echo "beginning feature generation"
-
-echo $(pwd)
-
-
-#test command
-
-echo "testing container"
-
-apptainer exec -C -B /datashare/alphafold -B $(pwd) -B $SLURM_TMPDIR:/tmp $(pwd)/alphapulldown_0.30.7.sif create_individual_features.py \
-  --helpfull
-
-echo "testing sucessfull"
 
 #execute create_individual_features.py command within the alphapulldown container
 apptainer exec -C -B /datashare/alphafold -B $(pwd) -B $SLURM_TMPDIR:/tmp $(pwd)/alphapulldown_0.30.7.sif create_individual_features.py \
