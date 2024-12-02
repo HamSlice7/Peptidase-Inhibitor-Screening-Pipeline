@@ -14,6 +14,9 @@ bait_fasta_file=$1
 
 candidates_fasta_file=$2
 
+#load in apptainer
+module load apptainer/1.2.4
+
 #execute create_individual_features.py command within the alphapulldown container
 apptainer exec -C -B /datashare/alphafold -B $(pwd) -B $SLURM_TMPDIR:/tmp $(pwd)/alphapulldown_0.30.7.sif create_individual_features.py \
   --fasta_paths=$(pwd)/"$bait_fasta_file",$(pwd)/"$candidates_fasta_file" \
