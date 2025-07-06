@@ -1,0 +1,93 @@
+Peptidase,Peptidase Family,Inhibitor,Inhibitor Family,Binary_Label
+Papain (P00784),Cysteine ,cystatin A (P01040),Cysteine ,1
+Papain (P00784),Cysteine ,cystatin B (P04080),Cysteine ,1
+Calpain (P17655),Cysteine ,Calpastatin (P12675),Cysteine ,1
+Papain (P00784),Cysteine ,Chagasin (Q966X9),Cysteine ,1
+Papain (P00784),Cysteine ,equistatin (P81439),Cysteine ,1
+Calpain (P17655),Cysteine ,kininogen inhibitor unit 2 (P01042),Cysteine ,1
+Cathepsin H (O46427),Cysteine ,cystatin A (P01040),Cysteine ,1
+Papain (P00784),Cysteine ,Falstatin (A0A509AJA5),Cysteine ,1
+Cathepsin L  (P07711),Cysteine ,Falstatin (A0A509AJA5),Cysteine ,1
+CP 1 (Q01957),Cysteine ,Amoebiasin-2 (Q4GZL2),Cysteine ,1
+CP 2 (Q01958),Cysteine ,Amoebiasin-2 (Q4GZL2),Cysteine ,1
+Calpain-2 catalytic subunit (Q07009),Cysteine ,Calpastatin 2 (P27321),Cysteine ,1
+Thermolysin ( P00800),Metallo,SMPI (P01077),Metallo,1
+Thermolysin ( P00800),Metallo,IMPI (P82176),Metallo,1
+SpoIVFB (P26937 ),Metallo,BofA (P24282),Metallo,1
+MMP-1 (P03956),Metallo,TIMP-1 (P01033),Metallo,1
+Serralysin (P23694),Metallo,Serralysin inh (Q54478),Metallo,1
+MMP-3 (P08254 ),Metallo,TIMP-1 (P01033),Metallo,1
+Serralysin (P23694),Metallo,ERWINIA CHRYSANTHEMI INHIBITOR (P18958),Metallo,1
+Carboxypeptidase A4 (Q9UI42),Metallo,Latexin (Q9BS40),Metallo,1
+Carboxypeptidase A1 (P15085),Metallo,TCI1 (Q5EPH2),Metallo,1
+Carboxypeptidase B (P15086),Metallo,TCI1 (Q5EPH2),Metallo,1
+Pepsin (P00791),Aspartic,Aspin (P19400),Aspartic,1
+saccharopepsin (P07267),Aspartic,saccharopepsin inh (P01094),Aspartic,1
+Pepsin (P00791),Aspartic,SQAPI (Q6DLC9 ),Aspartic,1
+PROTEINASE A,Aspartic,proteinase inhibitor ia3 peptide,Aspartic,1
+Cathepsin D (P07339),Aspartic,Potato cathepsin D inhibitor (P16348),Aspartic,1
+Elastase (Q3UP87),Serine,CmPI-II (P84755),Serine,1
+Trypsin (P00760),Serine,Trypsin inhibitor (P82409),Serine,1
+Prothrombin,Serine,prothrombin inhibitor,Serine,1
+Trypsin (P00760),Serine,ovomucoid inhibitor unit 3 (P68390),Serine,1
+Trypsin (P00760),Serine,Pancreatic trypsin inhibitor (P00974),Serine,1
+Kalicrein (P06870),Serine,Pancreatic trypsin inhibitor (P00974),Serine,1
+Elastase (Q3UP87),Serine,Serine protease inhibitor 1 (P58514),Serine,1
+Trypsin (P00760),Serine,Kunitz trypsin inhibitor 4 (Q8RXD5),Serine,1
+Trypsin (P00760),Serine,Serine protease inhibitor 1 (P58514),Serine,1
+chymotrypsin A (P00766 ),Serine,Serine protease inhibitor 1 (P58514),Serine,1
+Kallikrein (P06870),Serine,taicotoxin (B7S4N9),Serine,1
+Trypsin (P00760),Serine,taicotoxin (B7S4N9),Serine,1
+Subtilisin A (P00780),Serine,Protease inhibitor HPI (Q6XNP7),Serine,1
+Kexin (P13134),Serine,Kexstatin-1 (O33702),Serine,1
+Subtilisin A (P00780),Serine,CmPI-II (P84755),Serine,1
+"TRYPSIN II, ANIONIC (P00763 )",Serine,ECOTIN (P23827),Serine,1
+THROMBIN (P00735 ),Serine,Rhodniin (Q06684 ),Serine,1
+Alkaline protease 1 (P28296),Serine,AFUEI (Q4WZ11),Serine,1
+Trypsin (P00761),Serine,Trypsin inhibitor 2 (P12071),Serine,1
+Papain (P00784),Cysteine ,Aspin (P19400),Aspartic,0
+Papain (P00784),Cysteine ,Serralysin inh (Q54478),Metallo,0
+Calpain (P17655),Cysteine ,ECOTIN (P23827),Serine,0
+Papain (P00784),Cysteine ,Kexstatin-1 (O33702),Serine,0
+Papain (P00784),Cysteine ,TCI1 (Q5EPH2),Metallo,0
+Calpain (P17655),Cysteine ,TCI1 (Q5EPH2),Metallo,0
+Cathepsin H (O46427),Cysteine ,Serine protease inhibitor 1 (P58514),Serine,0
+Papain (P00784),Cysteine ,taicotoxin (B7S4N9),Serine,0
+Cathepsin L  (P07711),Cysteine ,TCI1 (Q5EPH2),Metallo,0
+CP 1 (Q01957),Cysteine ,Potato cathepsin D inhibitor (P16348),Aspartic,0
+CP 2 (Q01958),Cysteine ,Potato cathepsin D inhibitor (P16348),Aspartic,0
+Calpain-2 catalytic subunit (Q07009),Cysteine ,IMPI (P82176),Metallo,0
+Thermolysin ( P00800),Metallo,Trypsin inhibitor 2 (P12071),Serine,0
+Thermolysin ( P00800),Metallo,proteinase inhibitor ia3 peptide,Aspartic,0
+SpoIVFB (P26937 ),Metallo,saccharopepsin inh (P01094),Aspartic,0
+MMP-1 (P03956),Metallo,Pancreatic trypsin inhibitor (P00974),Serine,0
+Serralysin (P23694),Metallo,CmPI-II (P84755),Serine,0
+MMP-3 (P08254 ),Metallo,cystatin B (P04080),Cysteine ,0
+Serralysin (P23694),Metallo,Potato cathepsin D inhibitor (P16348),Aspartic,0
+Carboxypeptidase A4 (Q9UI42),Metallo,Falstatin (A0A509AJA5),Cysteine ,0
+Carboxypeptidase A1 (P15085),Metallo,Pancreatic trypsin inhibitor (P00974),Serine,0
+Carboxypeptidase B (P15086),Metallo,Trypsin inhibitor (P82409),Serine,0
+Pepsin (P00791),Aspartic,Pancreatic trypsin inhibitor (P00974),Serine,0
+saccharopepsin (P07267),Aspartic,Amoebiasin-2 (Q4GZL2),Cysteine ,0
+Pepsin (P00791),Aspartic,cystatin A (P01040),Cysteine ,0
+PROTEINASE A,Aspartic,CmPI-II (P84755),Serine,0
+Cathepsin D (P07339),Aspartic,Latexin (Q9BS40),Metallo,0
+Elastase (Q3UP87),Serine,Potato cathepsin D inhibitor (P16348),Aspartic,0
+Trypsin (P00760),Serine,proteinase inhibitor ia3 peptide,Aspartic,0
+Prothrombin,Serine,SMPI (P01077),Metallo,0
+Trypsin (P00760),Serine,Serralysin inh (Q54478),Metallo,0
+Trypsin (P00760),Serine,cystatin A (P01040),Cysteine ,0
+Kalicrein (P06870),Serine,ERWINIA CHRYSANTHEMI INHIBITOR (P18958),Metallo,0
+Elastase (Q3UP87),Serine,proteinase inhibitor ia3 peptide,Aspartic,0
+Trypsin (P00760),Serine,Falstatin (A0A509AJA5),Cysteine ,0
+Trypsin (P00760),Serine,Potato cathepsin D inhibitor (P16348),Aspartic,0
+chymotrypsin A (P00766 ),Serine,IMPI (P82176),Metallo,0
+Kallikrein (P06870),Serine,cystatin B (P04080),Cysteine ,0
+Trypsin (P00760),Serine,Chagasin (Q966X9),Cysteine ,0
+Subtilisin A (P00780),Serine,saccharopepsin inh (P01094),Aspartic,0
+Kexin (P13134),Serine,saccharopepsin inh (P01094),Aspartic,0
+Subtilisin A (P00780),Serine,Calpastatin (P12675),Cysteine ,0
+"TRYPSIN II, ANIONIC (P00763 )",Serine,TIMP-1 (P01033),Metallo,0
+THROMBIN (P00735 ),Serine,Amoebiasin-2 (Q4GZL2),Cysteine ,0
+Alkaline protease 1 (P28296),Serine,Potato cathepsin D inhibitor (P16348),Aspartic,0
+Trypsin (P00761),Serine,Potato cathepsin D inhibitor (P16348),Aspartic,0
