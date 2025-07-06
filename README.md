@@ -10,6 +10,9 @@ Instructions for use:
   -c: location of the "candidates.fasta" file.
 - Example command: 'bash activate.sh -a 32 -b bait.fasta -c candidates.fasta'
 
+Notes:
+- 5 recycling steps of AlphaFold-Multimer
+
 Citations:
 
 Cock, P. J. A., Antao, T., Chang, J. T., Chapman, B. A., Cox, C. J., Dalke, A., Friedberg, I., Hamelryck, T., Kauff, F., Wilczynski, B., & de Hoon, M. J. L. (2009). Biopython: Freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics, 25(11), 1422–1423. https://doi.org/10.1093/bioinformatics/btp163
