@@ -11,7 +11,7 @@ Instructions for use:
 - Example command: 'bash activate.sh -a 32 -b bait.fasta -c candidates.fasta'
 
 Notes:
-- 5 recycling steps of AlphaFold-Multimer
+- Default number of recycling steps for AlphaFold-Multimer is 5
 
 Citations:
 
