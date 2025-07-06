@@ -1,0 +1,13 @@
+Metric,Data_set,TPR,sd
+ipTM max,A,0.521,0.071
+LIS max,A,0.444,0.05
+LIA max,A,0.629,0.026
+ipTM max,B,0.458,0.055
+LIS max,B,0.4,0.059
+LIA max,B,0.408,0.088
+ipTM max,C,0.571,0.04
+LIS max,C,0.525,0.046
+LIA max,C,0.75,0.206
+ipTM max,D,0.891,0.017
+LIS max,D,0.897,0.012
+LIA max,D,0.924,0.027

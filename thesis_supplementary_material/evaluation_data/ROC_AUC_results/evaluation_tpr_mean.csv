@@ -1,0 +1,13 @@
+Metric,Data_set,TPR,sd
+ipTM mean,A,0.452,0.072
+LIS mean,A,0.416,0.05
+LIA mean,A,0.621,0.079
+ipTM mean,B,0.432,0.118
+LIS mean,B,0.367,0.054
+LIA mean,B,0.475,0.051
+ipTM mean,C,0.579,0.051
+LIS mean,C,0.658,0.198
+LIA mean,C,0.58,0.115
+ipTM mean,D,0.934,0.015
+LIS mean,D,0.934,0.015
+LIA mean,D,0.892,0.022

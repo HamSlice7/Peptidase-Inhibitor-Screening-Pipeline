@@ -1,0 +1,13 @@
+Metric,Data_set,FPR,sd
+ipTM mean,A,0.064,0.023
+LIS mean,A,0.024,0.015
+LIA mean,A,0.298,0.09
+ipTM mean,B,0.1,0.053
+LIS mean,B,0.052,0.029
+LIA mean,B,0.159,0.027
+ipTM mean,C,0.036,0.018
+LIS mean,C,0.148,0.183
+LIA mean,C,0.136,0.145
+ipTM mean,D,0.043,0.013
+LIS mean,D,0.043,0.013
+LIA mean,D,0.087,0.019

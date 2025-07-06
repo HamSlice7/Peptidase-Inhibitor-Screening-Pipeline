@@ -1,0 +1,13 @@
+Metric,Data_set,AUC,sd
+ipTM max,A,0.712,0.029
+LIS max,A,0.694,0.029
+LIA max,A,0.664,0.015
+ipTM max,B,0.654,0.047
+LIS max,B,0.613,0.051
+LIA max,B,0.627,0.039
+ipTM max,C,0.788,0.024
+LIS max,C,0.784,0.028
+LIA max,C,0.714,0.025
+ipTM max,D,0.959,0.01
+LIS max,D,0.937,0.015
+LIA max,D,0.847,0.015

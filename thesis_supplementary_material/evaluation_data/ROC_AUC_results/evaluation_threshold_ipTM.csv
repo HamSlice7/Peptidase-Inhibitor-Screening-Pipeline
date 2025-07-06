@@ -1,0 +1,9 @@
+Metric,Data_set,Threshold,sd,lower
+ipTM max,A,0.831,0.038,0.793
+ipTM mean,A,0.748,0.026,0.722
+ipTM mean,B,0.762,0.03,0.732
+ipTM max,B,0.871,0.003,0.868
+ipTM mean,C,0.656,0.019,0.637
+ipTM max,C,0.783,0.026,0.757
+ipTM mean,D,0.642,0.008,0.634
+ipTM max,D,0.851,0.002,0.849

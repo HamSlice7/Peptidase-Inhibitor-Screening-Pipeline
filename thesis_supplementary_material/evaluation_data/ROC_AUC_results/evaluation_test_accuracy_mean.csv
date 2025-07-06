@@ -1,0 +1,13 @@
+Metric,Data_set,Test_accuracy,sd
+ipTM mean,A,0.677,0.096
+LIS mean,A,0.668,0.087
+LIA mean,A,0.596,0.06
+ipTM mean,B,0.618,0.151
+LIS mean,B,0.651,0.149
+LIA mean,B,0.636,0.141
+ipTM mean,C,0.701,0.181
+LIS mean,C,0.588,0.152
+LIA mean,C,0.619,0.149
+ipTM mean,D,0.934,0.042
+LIS mean,D,0.935,0.064
+LIA mean,D,0.892,0.048

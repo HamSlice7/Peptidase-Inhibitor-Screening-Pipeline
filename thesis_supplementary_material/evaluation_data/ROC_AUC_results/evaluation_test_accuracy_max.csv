@@ -1,0 +1,13 @@
+Metric,Data_set,Test_accuracy,sd
+ipTM max,A,0.644,0.122
+LIS max,A,0.693,0.103
+LIA max,A,0.645,0.05
+ipTM max,B,0.683,0.147
+LIS max,B,0.683,0.127
+LIA max,B,0.572,0.134
+ipTM max,C,0.687,0.1
+LIS max,C,0.671,0.169
+LIA max,C,0.522,0.129
+ipTM max,D,0.913,0.057
+LIS max,D,0.88,0.064
+LIA max,D,0.795,0.074

@@ -1,0 +1,13 @@
+Metric,Data_set,AUC,sd
+ipTM mean,A,0.704,0.024
+LIS mean,A,0.676,0.024
+LIA mean,A,0.683,0.013
+ipTM mean,B,0.607,0.042
+LIS mean,B,0.548,0.053
+LIA mean,B,0.627,0.029
+ipTM mean,C,0.813,0.03
+LIS mean,C,0.799,0.029
+LIA mean,C,0.749,0.035
+ipTM mean,D,0.962,0.007
+LIS mean,D,0.957,0.008
+LIA mean,D,0.921,0.009

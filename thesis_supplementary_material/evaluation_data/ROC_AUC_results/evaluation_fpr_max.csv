@@ -1,0 +1,13 @@
+Metric,Data_set,FPR,sd
+ipTM max,A,0.113,0.069
+LIS max,A,0.04,0.012
+LIA max,A,0.302,0.025
+ipTM max,B,0.075,0.032
+LIS max,B,0.03,0.015
+LIA max,B,0.106,0.045
+ipTM max,C,0.068,0.035
+LIS max,C,0.043,0.003
+LIA max,C,0.37,0.185
+ipTM max,D,0.043,0.013
+LIS max,D,0.087,0.025
+LIA max,D,0.288,0.022
